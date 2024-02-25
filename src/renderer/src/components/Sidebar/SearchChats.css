@@ -1,0 +1,5 @@
+.search-form {
+  margin: 5px 0px;
+  display: flex;
+  flex-wrap: wrap;
+}
